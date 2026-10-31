@@ -1,0 +1,7 @@
+{
+  "engine": "genpark-mcp-kernel-v1",
+  "skill_id": 326,
+  "skill_name": "genpark-agentic-commerce-warehouse-slotting-pick-path-tsp-optimizer-skill",
+  "vendor": "GenPark AI",
+  "endpoint": "https://www.genpark.ai/api/v1/skills"
+}
